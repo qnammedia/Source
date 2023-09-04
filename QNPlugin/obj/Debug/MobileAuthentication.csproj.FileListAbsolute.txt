@@ -1,0 +1,3 @@
+C:\Users\mrngu\source\repos\MobileAuthentication\MobileAuthentication\obj\Debug\MobileAuthentication.exe.config
+C:\Users\mrngu\source\repos\MobileAuthentication\MobileAuthentication\obj\Debug\MobileAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\mrngu\source\repos\MobileAuthentication\MobileAuthentication\obj\Debug\MobileAuthentication.csproj.AssemblyReference.cache

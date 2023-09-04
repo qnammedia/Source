@@ -1,0 +1,3 @@
+2023-05-31 16:05:00.377+07:00 [DESKTOP-I480FP7][D:3][T:31][ERROR] Dnn.PersonaBar.Users.Services.UsersController - System.Exception: Your new password was not accepted for security reasons.  Please enter a password that you haven't used before and is long and complex enough to meet the site's password complexity requirements.
+   at Dnn.PersonaBar.Users.Components.UsersController.ChangePassword(Int32 portalId, Int32 userId, String newPassword)
+   at Dnn.PersonaBar.Users.Services.UsersController.ChangePassword(ChangePasswordDto changePasswordDto)
